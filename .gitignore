@@ -1,0 +1,4 @@
+audio_cache/
+pretrained_models/
+*.pyc
+__pycache__
